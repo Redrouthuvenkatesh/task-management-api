@@ -358,9 +358,6 @@ com.taskmanager
 ## Future Improvements
 
 - [ ] PostgreSQL / production-ready database
-- [ ] Refresh token support
-- [ ] Pagination and filtering on `GET /tasks` (by status, due date, title)
-- [ ] Role-based access control (USER vs ADMIN)
 - [ ] Integration tests with `@SpringBootTest`
 - [ ] JaCoCo code coverage reporting
 - [ ] Rate limiting
